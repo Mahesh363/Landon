@@ -1,0 +1,3 @@
+FROM ubuntu
+volume ["data"]
+
